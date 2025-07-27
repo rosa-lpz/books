@@ -1,4 +1,2 @@
-# Programming-Books
-This repository contains a collection of notes and solutions from various programming books
+# Python Crash Course (3nd Ed)
 
-## Python Crash Course
